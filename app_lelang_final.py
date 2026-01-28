@@ -38,7 +38,7 @@ if 'gallery_data' not in st.session_state:
         "Audi Quattro S1 E2": {
             "images": [
                 "images/Audi Quattro S1 E2 View_A.avif", "images/Audi Quattro S1 E2 View_B.avif", "images/Audi Quattro S1 E2 View_C.avif", 
-                "images/Audi Quattro S1 E2 View_D.avif", "images/Audi Quattro S1 E2 View_B.avif", "images/Audi Quattro S1 E2 View_F.avif", 
+                "images/Audi Quattro S1 E2 View_D.avif", "images/Audi Quattro S1 E2 View_E.avif", "images/Audi Quattro S1 E2 View_F.avif", 
                 "images/Audi Quattro S1 E2 View_G.avif", "images/Audi Quattro S1 E2 View_H.avif"
             ],
             "tahun": "1985 (Group B)", "specs": "2.1L I5 Turbo, 591 HP", "driver": "Walter Röhrl 🇩🇪 / Stig Blomqvist 🇸🇪",
@@ -47,7 +47,7 @@ if 'gallery_data' not in st.session_state:
         "Lancia Delta HF Integrale": {
             "images": [
                 "images/Lancia Delta HF Integrale View_A.avif", "images/Lancia Delta HF Integrale View_B.avif", "images/Lancia Delta HF Integrale View_C.avif", 
-                "images/Lancia Delta HF Integrale View_D.avif", "images/Lancia Delta HF Integrale view_E.avif", "images/Lancia Delta HF Integrale View_F.avif", 
+                "images/Lancia Delta HF Integrale View_D.avif", "images/Lancia Delta HF Integrale View_B.avif", "images/Lancia Delta HF Integrale View_F.avif", 
                 "images/Lancia Delta HF Integrale View_G.avif", "images/Lancia Delta HF Integrale View_H.avif"
             ],
             "tahun": "1992 (Evo)", "specs": "2.0L Turbo 16V, 210 HP", "driver": "Juha Kankkunen 🇫🇮 / Miki Biasion 🇮🇹",
