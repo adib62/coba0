@@ -47,7 +47,7 @@ if 'gallery_data' not in st.session_state:
         "Lancia Delta HF Integrale": {
             "images": [
                 "images/Lancia Delta HF Integrale View_A.avif", "images/Lancia Delta HF Integrale View_B.avif", "images/Lancia Delta HF Integrale View_C.avif", 
-                "images/Lancia Delta HF Integrale View_D.avif", "images/Lancia Delta HF Integrale View_B.avif", "images/Lancia Delta HF Integrale View_F.avif", 
+                "images/Lancia Delta HF Integrale View_D.avif", "images/Lancia Delta HF Integrale View_Z.avif", "images/Lancia Delta HF Integrale View_F.avif", 
                 "images/Lancia Delta HF Integrale View_G.avif", "images/Lancia Delta HF Integrale View_H.avif"
             ],
             "tahun": "1992 (Evo)", "specs": "2.0L Turbo 16V, 210 HP", "driver": "Juha Kankkunen 🇫🇮 / Miki Biasion 🇮🇹",
