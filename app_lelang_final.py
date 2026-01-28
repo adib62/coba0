@@ -69,7 +69,7 @@ if 'gallery_data' not in st.session_state:
                 "images/Mitsubishi Lancer Evolution X View_G.avif", "images/Mitsubishi Lancer Evolution X View_H.avif"
             ],
             "tahun": "2007 - 2016", "specs": "4B11T 2.0L Turbo, 291 HP", "driver": "Fumio Nutahara 🇯🇵",
-            "price": 950000000, "highest_bidder": "Showroom JKT"
+            "price": 950000000, "highest_bidder": "blm ada"
         },
         "Mitsubishi Lancer Evolution X Kaela Kovalskia": {
             "images": [
