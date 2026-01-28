@@ -38,7 +38,7 @@ if 'gallery_data' not in st.session_state:
         "Audi Quattro S1 E2": {
             "images": [
                 "images/Audi Quattro S1 E2 View_A.avif", "images/Audi Quattro S1 E2 View_B.avif", "images/Audi Quattro S1 E2 View_C.avif", 
-                "images/Audi Quattro S1 E2 View_D.avif", "images/Audi Quattro S1 E2 View_E.avif", "images/Audi Quattro S1 E2 View_F.avif", 
+                "images/Audi Quattro S1 E2 View_D.avif", "images/Audi Quattro S1 E2 View_B.avif", "images/Audi Quattro S1 E2 View_F.avif", 
                 "images/Audi Quattro S1 E2 View_G.avif", "images/Audi Quattro S1 E2 View_H.avif"
             ],
             "tahun": "1985 (Group B)", "specs": "2.1L I5 Turbo, 591 HP", "driver": "Walter Röhrl 🇩🇪 / Stig Blomqvist 🇸🇪",
